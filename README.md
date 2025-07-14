@@ -1,54 +1,71 @@
-## Hi there 👋
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Saurabh Gupta</h1>
+<h3 align="center">Aspiring Data Analyst | Data Scientist | Software Developer</h3>
 
-###
+<p align="center">
+  🚀 Student at <strong>NITK Surathkal, Batch of 2026</strong> <br>
+  📍 Based in India | 🌱 Learning every day
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+### 🔥 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+- 🎓 Currently pursuing **B.Tech** at **NITK Surathkal**
+- 💡 Passionate about using **data and technology** to solve real-world problems
+- 👨‍💻 Actively exploring **Data Analytics**, **Machine Learning**, and **Full-Stack Development**
+- 📈 Love creating insights from data and building tools that make life easier
+- 📚 Always upskilling — currently diving deep into **NLP**, **Data Visualization**, and **FastAPI**
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### 💼 Tech Stack
 
-###
+- **Languages:** Python, SQL, C++, JavaScript
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
+- **ML / AI:** Scikit-learn, OpenCV, TensorFlow (beginner), HuggingFace, TrOCR
+- **Web Dev:** HTML, CSS, JavaScript, React, FastAPI, Django
+- **Databases:** PostgreSQL, MySQL
+- **Other Tools:** Git & GitHub, VSCode, Jupyter Notebook, Streamlit
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+### 📊 What I’m Working On
+
+- 📈 **Sales Forecasting** using regression and time-series techniques  
+- 📚 **Grammar Scoring Engine** for spoken English audio  
+- 🤖 Learning **LLMs**, **RAG** systems, and **AI-driven product development**
+
+---
+
+### 🌱 Learning Goals
+
+- 📘 Improve SQL for advanced data manipulation  
+- 🔍 Master end-to-end **ML project pipelines**  
+- 🧠 Dive deeper into **Deep Learning** and **Model Optimization**  
+- ⚙️ Build scalable **APIs** and integrate them with frontend tools  
+
+---
+
+### 📬 Let's Connect!
+
+- 📧 Email: [saurabhk62049@gmail.com](mailto:saurabhk62049@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/saurabhgupta-nitk](https://linkedin.com/in/saurabhgupta-nitk)  
+- 🌐 Portfolio: Coming Soon!
+
+---
+
+### ✨ Fun Facts
+
+- 🎯 Always chasing clean code and meaningful insights  
+- ⚡ Coffee + Code = Happiness  
+- 💬 Ask me about Data Projects, ML pipelines, FastAPI, or React
+
+---
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhgupta26&show_icons=true&theme=radical" alt="Saurabh's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhgupta26&layout=compact&theme=radical" alt="Top Languages" />
+</p>
