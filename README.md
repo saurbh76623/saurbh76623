@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Saurabh Gupta</h1>
+<h1 align="center">Hi 👋, I'm Saurabh Kumar Gupta</h1>
 <h3 align="center">Aspiring Data Analyst | Data Scientist | Software Developer</h3>
 
 <p align="center">
@@ -32,8 +32,7 @@
 
 ### 📊 What I’m Working On
 
-- 📈 **Sales Forecasting** using regression and time-series techniques  
-- 📚 **Grammar Scoring Engine** for spoken English audio  
+- 📈 **Sales Forecasting** using regression and time-series techniques   
 - 🤖 Learning **LLMs**, **RAG** systems, and **AI-driven product development**
 
 ---
